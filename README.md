@@ -12,8 +12,8 @@ Initial release:
 - Tersedia dalam dua bahasa, id dan en.
 - Maksimum 10 item
 
-- # English
-- This plugin is a plugin to display a special menu for admins.
+# English
+This plugin is a plugin to display a special menu for admins.
 
 Site admins can set the role where the special menu is displayed.
 The menu will appear based on language. Site admins can add menu items that appear.
