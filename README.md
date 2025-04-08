@@ -1,6 +1,8 @@
 # moodle_adminmenu
 Moodle Admin Menu
 
+After install, go to Site Admin / Appearance / Admin Menu
+
 # Description
 # Bahasa Indonesia
 Plugin ini adalah plugin untuk memunculkan menu khusus untuk admin.
